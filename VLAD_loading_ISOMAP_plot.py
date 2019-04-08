@@ -17,10 +17,6 @@ from sklearn.manifold import (Isomap, SpectralEmbedding, spectral_embedding, Loc
 #     return E    
 
 
-
-
-
-
 # # print(edge_list_creation(10))
 
 # def adjacency_matrix(Edge_list): 
@@ -36,6 +32,12 @@ from sklearn.manifold import (Isomap, SpectralEmbedding, spectral_embedding, Loc
 
 
 #     return A
+
+
+
+
+
+
 
 
 if __name__=='__main__': 
